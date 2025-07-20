@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-whisper
+git+https://github.com/openai/whisper.git
 torch
 ffmpeg-python
 python-multipart
